@@ -22,7 +22,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
 | Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
 | Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
-| Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
+| Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown | no |
 | Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
 | Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
 | Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
@@ -44,7 +44,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 |  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
-| AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown |
+| AWS | AWS | Free full-time AWS training with certification and launch a career in cloud computing with AWS re/Start for unemployed and underemployed individuals. | [Link](https://aws.amazon.com/training/restart/) | Unknown | not for me |
 | AWS | AWS | AWS Cloud Quest: Cloud Practitioner | [Link](https://explore.skillbuilder.aws/learn/course/11458/aws-cloud-quest-cloud-practitioner) | Unknown |
 | API | API Academy | Free API Designer and API Security Architect certifications. | [Link](https://apiacademy.co/api-certification/) | Unknown |
 | API | Gravitee.io | Event-Native API Management Fundamentals Certification | [Link](https://gravitee.getlearnworlds.com/course/gravitee-event-native-api-management-foundations) | Unknown |
@@ -85,7 +85,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | Cilium | Isovalent | Cilium IPv6 Networking and Observability | [Link](https://isovalent.com/labs/ipv6-networking-and-observability/) | Unknown |
 | Cilium | Isovalent | Cilium Gateway API | [Link](https://isovalent.com/labs/gateway-api/) | Unknown |
 | AWS Skill Builder | AWS | AWS Skill Builder is a repository of over 700 training lessons to help you learn AWS and refine your knowledge of AWS services and improve your skills so you can put them into practice or apply the knowledge during the many AWS certifications. | [Link](https://explore.skillbuilder.aws/learn/catalog) | Unknwon |
-| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknwon |
+| Fundamental certifications | Microsoft | Microsoft provides free certification exam vouchers for verified students. | [Link](https://learn.microsoft.com/en-us/certifications/student-training-and-certification) | Unknown | not for me |
 | Integration | Boomi | Professional API Management Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIyWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
  | Integration | Boomi | Professional API Design Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OKzWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
  | Integration | Boomi | Associate Developer Certification | [Link](https://community.boomi.com/s/learning-plan-detail-standard?ltui__urlRecordId=aOM6S0000008OIeWAM&ltui__urlRedirect=learning-plan-detail-standard) | Unknown |
@@ -101,16 +101,16 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 
 ## Security
 
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
-| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
+| Provider | Description | Link | Expiration | still available? |
+| --- | --- | --- | --- | --- |
+| Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 | no |
+| Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited | no |
 | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
 | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible indiviuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
-| Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
+| Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited | yes |
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
-| Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times |
-| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 I
+| Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times | no |
+| Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 | not for me |
 | ISC² | voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link]([https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate](https://www.isc2.org/1mcc)) | 31-Dec-2023 |
 
 ## Project Management
