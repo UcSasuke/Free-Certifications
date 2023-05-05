@@ -13,34 +13,34 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | OCI | Oracle | Oracle Cloud Infrastructure 2022 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2022-foundations-associate/pexam_1Z0-1085-22) | Unlimited | yes |
 | OCI | Oracle | Oracle Cloud Data Management 2022 Foundations Associate | [Link](https://mylearn.oracle.com/learning-path/become-an-oracle-cloud-data-management-foundations-associate/107013) | Unlimited | yes|
 | Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 | yes |
-| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
+| Cloud Networking | Aviatrix  | Aviatrix ,Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time | yes, but certification is not free |
 | Azure | Microsoft | Free AZ-900 Microsoft Azure Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Fundamentals" tab) | Limited Time | no |
 | Microsoft | Build: Azure Developer Challenge | [Link]( https://docs.microsoft.com/en-us/learn/challenges?id=b1ac64ec-f0d3-45fa-beee-f230f9a75e81) |  21-Jun-2022 | no |
 | Azure | Microsoft | Free DP-900 Microsoft Data Fundamentals certification (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("Data Fundamentals" tab) | Limited Time | no |
 | Azure | Microsoft | Free AI-900 Microsoft AI Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#azure) ("AI Fundamentals" tab) | Limited Time | no |
 | Azure | Microsoft | Free PL-900 Microsoft Power Platform Fundamentals certification (worth $99) upon completion of the 1 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#pp) ("Fundamentals" tab) | Limited Time | no |
 | JumpCloud | JumpCloud | Free JumpCloud Core Certification (worth $150). | [Link](https://jumpcloud.com/university/certifications/core) | Limited Time |
-| Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown |
-| Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown |
+| Google Cloud | QwikLabs | Extra 30 days for Google Cloud labs on Qwiklabs. | [Link](https://go.qwiklabs.com/qwiklabs-free) | Unknown | yes |
+| Automated Testing | Test Automation University | Free certification courses by the Test Automation University. | [Link](https://testautomationu.applitools.com/) | Unknown | unchecked |
 | Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown | no |
-| Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
-| Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
-| Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown |
-| Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown |
-| Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown |
+| Google Cloud | Qwiklabs | Claim 30 days free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown | yes |
+| Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown | unchecked |
+| Huawei Networking | Huawei Academ | Free course & certification (HCIA level, $200 value). | [Link](https://e.huawei.com/en/talent/#/ict/partner-details?consultationId=545&consClassCode=AUTH&consTypeCode=consulationRZZX&urlForm=certifi) | Unknown | unchecked |
+| Programming | JetBrains | Free courses by JetBrains Academy for learning Java, Kotlin & Python. | [Link](https://www.jetbrains.com/academy/) | Unknown | yes |
+| Cloud Monitoring | Elastic | Free access to 11 Elastic Stack courses ($200 value each). | [Link](https://www.elastic.co/training/free) | Unknown | unchecked |
 | Diverse | Udacity | One free month access to nanodegree programs by Udacity ($400 value). Credit card / PayPal required. Don’t forget to cancel in time. | [Link](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html) | Unknown |
-| Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown |
-| DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown |
-| DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown |
-| Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited |
-| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited |
+| Alibaba Cloud | Coursera | “Architecting on Alibaba Cloud Specialization” at Coursera. | [Link](https://www.coursera.org/specializations/alibabacloud) | Unknown | yes |
+| DevOps | The Linux Foundation | The Linux Foundation offers 23 free courses with finalizing exams & confirmations. | [Link](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course) | Unknown | yes |
+| DevOps | CloudBees University | Free training through CloudBees University (Jenkins, DevOps). | [Link](https://standard.cbu.cloudbees.com/) | Unknown | yes |
+| Data Analytics | Sumo Logic | 6 free training courses and certifications by Sumo Logic. | [Link](https://www.sumologic.com/learn/certifications/) | Unlimited | yes |
+| Web Development | Freecodecamp | 6 Free Code Camp learning courses & certifications, incl. RWD, JavaScript, APIs, React… | [Link](https://www.freecodecamp.org/) | Unlimited | yes|
 | Diverse | Udemy | ~670 free courses at Udemy, incl. certificates. | [Link](https://www.udemy.com/courses/free/) | Unlimited |
-| cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited |
-| Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited |
-| SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited |
-| Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited |
-| SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Profissional | [Link](https://www.silver-peak.com/support/training) | Unknown |
-| Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited |
+| cPanel | Cpanel University | Free cPanel Professional Certification (CPP) awarded simply by successfully completing the full series of video lessons. There is no final certification exam required for the CPP status. | [Link](https://exams.cpanel.net/catalog/info/id:228,cat:38) | Unlimited | yes |
+| Plesk | Plesk University | Free Plesk Obsidian Professional Certification | [Link](https://university.plesk.com/catalog/info/id:343) | Unlimited | yes |
+| SolusIO | Plesk University | Free SolusIO Professional Certification | [Link](https://university.plesk.com/catalog/info/id:369) | Unlimited | yes |
+| Analytics | Google Analytics Academy | Google Analytics Academy free courses with certificates | [Link](https://analytics.google.com/analytics/academy/) | Unlimited | unsure |
+| SD-WAN | Silver Peak | Silver Peak , offers Free Training & Certification Exam for SD-WAN Professional | [Link](https://www.silver-peak.com/support/training) | Unknown | yes |
+| Data Science | IBM Cognitive Class | Data science courses with proof of completion and badge | [Link](https://cognitiveclass.ai/) | Unlimited | yes |
 |  IT sector | Bitdegree | gain or improve digital skills on our eLearning platform | [Link](https://www.bitdegree.org/free-certifications-online) | Unknown |
 | SysTrack | Lakeside Software | Free SysTrack certification and badge upon completion of self-paced courses through their online learning platform. They offer three courses: SysTrack Technician, SysTrack Engineer, and SysTrack Dashboard Designer. | [Link](https://info.lakesidesoftware.com/acton/fs/blocks/showLandingPage/a/31052/p/p-0081/t/page/fm/0) | Unknown |
 | Eggplant | Eggplant | Free Eggplant courses and certifications. | [Link](https://www.eggplantsoftware.com/training-and-certifications) | Unknown |
@@ -111,7 +111,7 @@ The offers on top of the table are time-limited and will expire soon. So, hurry 
 | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
 | Azure | Microsoft | Free SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals (worth $99) upon completion of the 2 day virtual training. | [Link](https://www.microsoft.com/en-ie/training-days#security) ("Security" tab) | Limited/Varying Times | no |
 | Azure | Microsoft Azure Associate Level  Certification, Register and complete the learning path within start amd end dtae to get Free voucher to take any Microsoft Associate certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=909beffb-ac11-414a-9287-a4158b5d6cf9&WT.mc_id=cloudskillschallenge_909beffb-ac11-414a-9287-a4158b5d6cf9&ocid=ignite22_CSCLinkedIn_organicsocial_wwl?wt.mc_id=studentamb_24964) | 2023 | not for me |
-| ISC² | voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link]([https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate](https://www.isc2.org/1mcc)) | 31-Dec-2023 |
+| ISC² | voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link]([https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate](https://www.isc2.org/1mcc)) | 31-Dec-2023 | yes, but have to pay 50$ every year |
 
 ## Project Management
 
